@@ -60,3 +60,16 @@ h1 {
   background-color: #fff;
   color: #333;
 }
+.correct {
+  background-color: #9aeabc;
+}
+.incorrect {
+  background-color: #ff9393;
+}
+.btn:disabled {
+  cursor: no-drop;
+}
+.btn:disabled:hover {
+  background-color: #fff;
+  color: #333;
+}
